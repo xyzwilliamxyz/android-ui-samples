@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorBackground">#F0F0F3</color>
+    <color name="separator">#E4E4E4</color>
+
+    <color name="lightGray">#D3D3D3</color>
+
+    <color name="colorBackgroundFinancial">#3e4275</color>
+    <color name="colorFinancialCard">#545292</color>
+    <color name="colorFinancialSeparator">#BEB8DB</color>
+    <color name="colorPocketMoney">#009688</color>
+    <color name="colorMoneyManagement">#E91E63</color>
+</resources>
